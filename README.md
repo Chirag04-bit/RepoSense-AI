@@ -1,4 +1,5 @@
 # 🚀 RepoSense AI
+LIVE DEMO - https://reposense-ai-hcpmx9syan2oz2r7uri2ad.streamlit.app/
 
 > **AI-Powered Repository Analysis & Developer Onboarding Platform**
 
