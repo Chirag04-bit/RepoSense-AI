@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+build/
+dist/
+
+# Repositories
+repositories/
+
+# FAISS index
+*.index
+*.pkl
+
+# Streamlit
+.streamlit/
